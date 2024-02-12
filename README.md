@@ -20,3 +20,5 @@ B.  AttackStrategy
      3.  SwingSword  
 
 # UML Class Diagram
+![image](https://github.com/JenzelSerapio/strategyPattern/assets/142371031/e0c374da-5861-47e7-9d7a-2a6f259edc1e)
+
